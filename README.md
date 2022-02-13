@@ -11,7 +11,7 @@
 
   ## Description:
   A Brief Description of the project
-  It allows users to create Tasks, view them in a list to the right, click on them to read them, delete them once finished
+  It allows users to create Tasks, view them in a list to the left, click on them to read them, delete them once finished
 
   ## Installation
   How to Install:

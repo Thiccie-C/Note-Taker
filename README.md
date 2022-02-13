@@ -1,6 +1,6 @@
 # Note Taker
   ## Screenshot:
-  [ScreenShot] (images/Capture.png)
+  [ScreenShot](./images/Capture.png)
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)

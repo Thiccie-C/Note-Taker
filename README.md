@@ -1,6 +1,6 @@
 # Note Taker
-  ## Licensing:
-   
+  ## Screenshot:
+  [ScreenShot](images/Capture.png)
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
